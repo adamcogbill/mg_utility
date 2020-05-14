@@ -1,2 +1,2 @@
 # mg_utility
-Used for testing purposes
+Embeds should have a filename that describes their function.
